@@ -2,7 +2,7 @@
 
 Este es mi repositorio personal
 
-## Conocimientos
+## Código
 
 ![Java](https://img.shields.io/badge/java-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
